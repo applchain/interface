@@ -725,7 +725,7 @@ function getreflink() {
                 'error'
             )
         } else {
-            document.getElementById('refaddress').value = 'https://aaplchain.com/?ref=' + document.getElementById('refaddress').value;
+            document.getElementById('refaddress').value = 'https://applchain.com/?ref=' + document.getElementById('refaddress').value;
         }
     }
 }
