@@ -764,7 +764,7 @@ function addToWallet() {
                 'type': 'ERC20',
                 'options': {
                     'address': '0x39b283ef1291dd1b005c9a46cd849610848ec196',
-                    'symbol': 'Apple',
+                    'symbol': 'APPL',
                     'decimals': '18',
                     'image': 'https://raw.githubusercontent.com/trustwallet/assets/d6fa2e2dc489ae21f8aa0bc778c35134b181464d/blockchains/smartchain/assets/0x39b283ef1291dd1b005c9a46cd849610848ec196/logo.png',
                 },
